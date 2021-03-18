@@ -1,2 +1,2 @@
-# GrausCF
-Converta uma temperatura digitada pelo usuário em °C para °F
+# GrausFC
+Converta uma temperatura digitada pelo usuário em  °F para °C 
